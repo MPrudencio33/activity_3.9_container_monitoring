@@ -10,8 +10,8 @@ Attach screenshot(s) of the following:
 ANSWER:
 
 1) Namespace (Group)
-![namespace](screenshot/namespace.jpg)
+![namespace](screenshot/namespace.png)
 
 2) Resources 
-![resources](screenshot/resources.jpg)
+![resources](screenshot/resources.png)
 
