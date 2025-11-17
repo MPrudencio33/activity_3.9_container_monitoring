@@ -1,17 +1,15 @@
-# activity_3.9_container_monitoring
-Activity 3.9 Container Monitoring
+# Activity 3.9 Container Monitoring
 
-Instructions:
-Attach screenshot(s) of the following:
- • Your namespace
- • Show that your resources are deployed within your namespace /  Group Activity namespace (if it is a group activity)
- Submission would be your screenshots or Github repository (if you’ve pushed your manifest files
+# Instructions:
+# Attach screenshot(s) of the following:
+# • Your namespace
+# • Show that your resources are deployed within your namespace /  Group Activity namespace (if it is a group    # activity)
+# Submission would be your screenshots or Github repository if you’ve pushed your manifest files
 
-ANSWER:
+# ANSWER:
 
-1) Namespace (Group)
+1) namespace
 ![namespace](screenshot/namespace.png)
 
-2) Resources 
+2) resources 
 ![resources](screenshot/resources.png)
-
